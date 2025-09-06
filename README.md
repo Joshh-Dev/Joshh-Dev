@@ -6,7 +6,9 @@ You probably won't see much here 😢
 
 I like to program stuff, such as games, apps, and websites! I like to do this stuff for fun because I find it interesting and I like to try new things. Also, just so you're aware, don't expect much here because of personal issues. I hope to make cool things someday!
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
+</p>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -16,7 +18,9 @@ I like to program stuff, such as games, apps, and websites! I like to do this st
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
 </div>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
+</p>
 
 ### 💿 Operating Systems mainly Used :
 <div>
@@ -24,3 +28,7 @@ I like to program stuff, such as games, apps, and websites! I like to do this st
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="ArchLinux" alt="ArchLinux" width="40" height="40"/>&nbsp;
 </div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Demo" />
+</p>
