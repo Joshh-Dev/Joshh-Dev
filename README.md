@@ -1,8 +1,8 @@
 # Heya! 😁
 
-You probably won't see much here 😢
+You probably won't see much here 😞
 
-## Things about me 😏
+## Things about me 😽
 
 I like to program stuff, such as games, apps, and websites! I like to do this stuff for fun because I find it interesting and I like to try new things. Also, just so you're aware, don't expect much here because of personal issues. I hope to make cool things someday!
 
