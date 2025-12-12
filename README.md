@@ -25,6 +25,7 @@ I like to program stuff, such as games, apps, and websites! I like to do this st
     <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows 11" alt="Windows 11" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="ArchLinux" alt="ArchLinux" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linuxmint/linuxmint-original.svg" title="LinuxMint" alt="LinuxMint" width="40" height="40"/>&nbsp;
 </div>
 
 ### 🗄️ Backend & Frameworks :
